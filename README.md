@@ -1,24 +1,5 @@
-# README
+# Ruby Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Blog designed with Ruby on Rails based on the getting started introduction to the framework (https://guides.rubyonrails.org/getting_started.html).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The blog can create/destroy posts and comments as well.
